@@ -21,3 +21,4 @@ C:\dev9\ts>npm install -g ts-node
 C:\dev9\ts>tsc index.ts
 
 ```"# typescript" 
+"# typescript" 
